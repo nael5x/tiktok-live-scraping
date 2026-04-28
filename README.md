@@ -28,12 +28,6 @@
 * `index.html`: The web interface for interacting with the Nexus Engine.
 * `TikTokLiveBot/Scraper/`: The primary output directory for all collected data.
 
-## 📱 Screenshots
-
-<p align="middle">
-  <img src="YOUR_IMAGE_URL_HERE" width="45%" alt="Nexus Dashboard" />
-  <img src="YOUR_IMAGE_URL_HERE" width="45%" alt="Scraping Progress" /> 
-</p>
 
 ## ⚙️ Getting Started
 
