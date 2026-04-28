@@ -1,0 +1,12 @@
+2026/04/08-20:12:07.068 5310 Reusing MANIFEST C:\Users\nailf\Desktop\TiktokProject\NexusProfile\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/08-20:12:07.075 5310 Recovering log #20
+2026/04/08-20:12:07.119 5310 Reusing old log C:\Users\nailf\Desktop\TiktokProject\NexusProfile\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/000020.log 
+2026/04/08-20:13:25.514 5314 Level-0 table #26: started
+2026/04/08-20:13:25.530 5314 Level-0 table #26: 844893 bytes OK
+2026/04/08-20:13:25.532 5314 Delete type=0 #20
+2026/04/08-20:13:38.025 5314 Compacting 1@1 + 1@2 files
+2026/04/08-20:13:38.038 5314 Generated table #27@1: 1119 keys, 23948 bytes
+2026/04/08-20:13:38.038 5314 Compacted 1@1 + 1@2 files => 23948 bytes
+2026/04/08-20:13:38.038 5314 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/08-20:13:38.039 5314 Delete type=2 #23
+2026/04/08-20:13:38.039 5314 Delete type=2 #26
