@@ -34,7 +34,7 @@
 ### 1. Installation
 Install the required Python libraries:
 ```bash
-pip install fastapi uvicorn selenium webdriver-manager ```
-
+pip install fastapi uvicorn selenium webdriver-manager
+```
 
 Developed by: nael5x
